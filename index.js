@@ -1,5 +1,4 @@
-
-n(global) {
+(function(global) {
   var channels = [];
 
   function BroadcastChannel(channel) {
